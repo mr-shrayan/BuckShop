@@ -1,2 +1,3 @@
 # BuckShop
-Shopping Application
+Shopping Application for all kinds of products
+
