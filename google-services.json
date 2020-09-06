@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545442763553",
+    "firebase_url": "https://buckshop-5d27d.firebaseio.com",
+    "project_id": "buckshop-5d27d",
+    "storage_bucket": "buckshop-5d27d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545442763553:android:a69568e71a75ec3d5fe460",
+        "android_client_info": {
+          "package_name": "com.example.buckshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545442763553-shltjehlsvi984pj2i0crlol7vjug18d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buckshop",
+            "certificate_hash": "3d5f7a97b17328dcc2175be3482a82c17b7a778f"
+          }
+        },
+        {
+          "client_id": "545442763553-feii41gd32dpmbuo72n5lisqh5pffona.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJfwS_fWevKz7GEgTQS-mvd1jPc5D0qZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545442763553-feii41gd32dpmbuo72n5lisqh5pffona.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
