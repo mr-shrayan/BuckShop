@@ -60,21 +60,6 @@
         android:layout_marginTop="5dp"
         >
 
-        <Switch
-            android:id="@+id/remember_me_chkb"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Remember me"
-            style="@style/Material.Widget.Switch"
-            android:textColor="@color/colorPrimaryDark"
-            tools:ignore="UseSwitchCompatOrMaterialXml"
-            app:cbd_strokeColor="@color/colorPrimaryDark"
-            android:gravity="center_vertical"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            android:layout_marginLeft="17dp"
-
-            />
 
     </LinearLayout>
 
