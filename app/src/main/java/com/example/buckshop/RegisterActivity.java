@@ -3,6 +3,7 @@ package com.example.buckshop;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -24,5 +25,22 @@ public class RegisterActivity extends AppCompatActivity
         InputPassword = (EditText) findViewById(R.id.register_password_input);
 
 
+        CreateAccountButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view)
+            {
+                CreateAccount();
+            }
+        });
+
+    }
+
+
+
+    private void CreateAccount()
+    {
+        String name = InputName.getText().toString();
+        String phone = InputPhoneNumber.getText().toString();
+        String password = InputPassword.getText().toString();
     }
 }
